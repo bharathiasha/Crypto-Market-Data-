@@ -71,7 +71,7 @@ crypto-market/
 
 🔹 1. Clone Repository
 
-git clone https://github.com/your-username/crypto-market.git
+git clone https://github.com/bharathiasha/Crypto-Market-Data-
 cd crypto-market
 
 ---
